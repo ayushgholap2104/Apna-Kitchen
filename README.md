@@ -4,7 +4,7 @@
 
 ## 🕶 Preview
 
-![Apna Kitchen Preview](ApnaKitchen_Preview)
+![Apna Kitchen Preview](ApnaKitchen_Preview.jpg)
 
 ## 📝 Overview
 
